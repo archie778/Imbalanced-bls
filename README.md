@@ -1,6 +1,6 @@
 
 Main code for ME-BFBN
-Broad Learning System Based on Fuzzy Reasoning and Multi-Layer Integration
+Broad Learning System Based on Fuzzy Reasoning
 # Dependency Libraries
 
 ```
