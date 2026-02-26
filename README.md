@@ -53,3 +53,8 @@ Execute in project directory:
 ```bash
 python ME-BFBN.py
 ```
+Some parts of the codes have been taken from:
+1. Chen C L P, Liu Z. Broad learning system: An effective and efficient incremental learning system without the need for deep architecture[J]. IEEE transactions on neural networks and learning systems, 2017, 29(1): 10-24.
+2. Sajid M, Tanveer M, Suganthan P N. Ensemble deep random vector functional link neural network based on fuzzy inference system[J]. IEEE Transactions on Fuzzy Systems, 2024, 33(1): 479-490.
+3. Feng S, Chen C L P. Fuzzy broad learning system: A novel neuro-fuzzy model for regression and classification[J]. IEEE transactions on cybernetics, 2018, 50(2): 414-424.
+```
